@@ -1,0 +1,3 @@
+GIT class 3
+Revision for creating branch, adding files, adding content to the file, reading the file
+editting the file, merging source branch with the destination branch.
